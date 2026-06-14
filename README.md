@@ -8,7 +8,9 @@ Recruiters manually screen hundreds of resumes for a single job opening. This pr
 
 Folder Structure :
 ai-resume-screening-system/
+
 │
+
 ├── data/
 │   ├── resumes/
 │   └── job_descriptions/
