@@ -12,8 +12,11 @@ ai-resume-screening-system/
 │
 
 ├── data/
+
 │   ├── resumes/
+
 │   └── job_descriptions/
+
 │
 ├── notebooks/
 │   ├── eda.ipynb
