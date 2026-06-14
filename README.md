@@ -40,3 +40,16 @@ ai-resume-screening-system/
 ├── requirements.txt
 │
 └── README.md
+
+
+Project Status: Under Development 🚧
+
+Current Progress:
+✓ Project Planning
+✓ System Architecture Design
+✓ Folder Structure Setup
+□ Resume Parsing Module
+□ Skill Extraction Module
+□ Similarity Engine
+□ ATS Score Generation
+□ Flask Deployment
